@@ -1,22 +1,16 @@
-# (TODO: your game's title)
+Catch Up to Those Hotdogs
 
-Author: (TODO: your name)
+Author: Aria Zhang
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Hotdogs are trying to escape by jumping off of the picnic table, and the only way to stop them is by sniping them with drops of America's favorite condiment. Don't shoot the apples though, because that's just gross.
 
 Screen Shot:
 
 ![Screen Shot](screenshot.png)
 
-How Your Asset Pipeline Works:
-
-(TODO: describe the steps in your asset pipeline, from source files to tiles/backgrounds/whatever you upload to the PPU466.)
-
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
-
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Move the mouse to aim. Press 'space' to shoot. Press 'esc' to ungrab the mouse. Shoot hotdogs before they fall off of the table, and avoid shooting apples.
 
 This game was built with [NEST](NEST.md).
 
